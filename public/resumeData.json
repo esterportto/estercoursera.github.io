@@ -1,0 +1,126 @@
+{
+    "main": {
+        "name": "Ester Pôrto Guilhem",
+        "description": "Software Engineer, ABAP Developer, Web (HTML/CSS/JS/React), UX/UI Designer",
+        "image": "profilepic.jpg",
+        "bio": "My name is Ester, I'm 23 years old, and I currently work as a Junior Software Engineer at John Deere. In 2018, I graduated as a computer technician, and I'm currently in the 10th semester of Computer Engineering at Unisal-Campinas. With over 6 years of experience in the field, I've had the opportunity to work on various exciting projects and explore different technologies. My primary focus has always been front-end development, where I specialized in creating interactive and user-friendly web applications. I have extensive knowledge of HTML, CSS, JavaScript, and I'm proficient in popular frameworks and libraries like React. I've always loved working on the front-end because it allows me to blend my creativity with problem-solving skills to deliver exceptional user experiences. About a year ago, I had a significant opportunity to return to John Deere, but this time with new challenges outside of the front-end. Currently, I'm diving into the world of SAP PP and advancing my career as an ABAP programmer. I'm excited to expand my skill set and explore new areas in the field of software engineering. I'm passionate about technology and always eager to learn and overcome challenges! 💜💪🏻",
+        "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+        "email": "esterguilhem@outlook.com",
+        "phone": "",
+        "github": "https://github.com/esterportto/",
+        "project": "https://github.com/",
+        "address": {
+            "street": "",
+            "city": "Indaiatuba",
+            "state": "- SP"
+        },
+        "website": "https://github.com/",
+        "resumedownload": "https://github.com/",
+        "social": [
+            {
+                "name": "twitter",
+                "url": "http://twitter.com/esterportto/",
+                "className": "fa fa-twitter"
+            },
+            {
+                "name": "linkedin",
+                "url": "https://www.linkedin.com/in/esterportto/",
+                "className": "fa fa-linkedin"
+            },
+           
+            {
+                "name": "github",
+                "url": "https://github.com/esterportto",
+                "className": "fa fa-github"
+            }
+        ]
+    },
+    "resume": {
+        "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+        "education": [
+            {
+                "school": "University?",
+                "degree": "Masters in Beer tasting",
+                "graduated": "April 2007",
+                "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+            },
+            {
+                "school": "Hogwarts School of Witchcraft and Wizardry",
+                "degree": "Gryffindor House",
+                "graduated": "March 2003",
+                "description": "Received 10 Outstandings in Care of Magical Creatures, Transfiguration, Potions, Charms, Herbology, Astronomy, History of Magic, Arithmancy, Ancient Runes, and Wandmaking."
+            }
+        ],
+        "work": [
+            {
+                "company": "Department of Magical Law Enforcement",
+                "title": "Ministry of Magic",
+                "years": "December 2010 - Present",
+                "description": "Work to put an end to pro-pureblood laws through negotiation, petitions, and enforcing and creating fair laws for the wizarding community.s"
+            },
+            {
+                "company": "Department for the Regulation and Control of Magical Creatures",
+                "title": "Ministry of Magic",
+                "years": "March 2007 - December 2010",
+                "description": "Worked to improve the quality of life for house-elves and other disenfranchised creatures."
+            },
+            {
+                "company": "Department for the Regulation and Control of Magical Creatures",
+                "title": "Ministry of Magic",
+                "years": "March 2007 - December 2010",
+                "description": "Worked to improve the quality of life for house-elves and other disenfranchised creatures."
+            }
+        ],
+        "skills": [
+           
+            {
+                "name": "Java Script",
+                "level": "60%"
+            },
+            {
+                "name": "ReactJs",
+                "level": "60%"
+            },
+            {
+                "name": "CSS",
+                "level": "90%"
+            },
+            {
+                "name": "HTML",
+                "level": "90%"
+            },
+            {
+                "name": "ABAP",
+                "level": "40%"
+            }
+        ]
+    },
+    "portfolio": {
+        "projects": [
+            {
+                "title": "Gryffindor Project",
+                "category": "Magic Nagini bezoar, Hippogriffs Headless Hunt giant squid petrified.",
+                "image": "project1.jpg",
+                "url": "https://www.canadianwanderlust.com"
+            },
+            {
+                "title": "Gryffindor Project",
+                "category": "Magic Nagini bezoar, Hippogriffs Headless Hunt giant squid petrified.",
+                "image": "project2.jpg",
+                "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+            },
+            {
+                "title": "Gryffindor Project",
+                "category": "Magic Nagini bezoar, Hippogriffs Headless Hunt giant squid petrified.",
+                "image": "project3.jpg",
+                "url": "http://www.timbakerdev.com"
+            },
+            {
+                "title": "Gryffindor Project",
+                "category": "Magic Nagini bezoar, Hippogriffs Headless Hunt giant squid petrified.",
+                "image": "project4.jpg",
+                "url": "http://www.smirkspace.com"
+            }
+        ]
+    }
+}
